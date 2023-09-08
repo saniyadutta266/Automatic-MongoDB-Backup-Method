@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/alonhar/lambda-mongodb-s3-backup.git"
   },
-  "author": "Alon Harel",
+  "author": "saniyadutta266",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alonhar/lambda-mongodb-s3-backup/issues"
