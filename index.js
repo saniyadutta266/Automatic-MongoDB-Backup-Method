@@ -21,7 +21,7 @@ const s3bucket = new AWS.S3({
     Bucket: s3Path
   }
 });
-
+// use this Code execute 
 module.exports.handler = function(event, context, cb) {
     process.env['PATH'] = process.env['PATH'] + ':' + process.env['LAMBDA_TASK_ROOT']
     console.log(process.env['PATH']);
